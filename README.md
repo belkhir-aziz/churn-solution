@@ -35,7 +35,7 @@ In the case of categorical variable. Put the cost of changing varaible's categor
 class SolutionTreeForChurner:
   def __init__(self,tree,guestCost,goal,feature_names)
 ```
-This is the declaraiton of the class you are going to use and their essential attribute.
+This is the declaraiton of the class you are going to use and its essential attribute.
 tree :is the model you are using to detect churner.
 guestCost:is the data frame which we talk about earlier.
 goal: is the class you want to reach in my case the target is flag-churn (flag-churn= 1:client who's going to quit ,0:client with good behaviors) so the goal=1
