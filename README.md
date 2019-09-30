@@ -28,3 +28,26 @@ If increasing or decreasing such beahavior is impossible putting very high cost 
 ```
 In the case of categorical variable. Put the cost of changing varaible's category in the increasing field.
 ```
+## Running the tests
+```
+class SolutionTreeForChurner:
+  def __init__(self,tree,guestCost,goal,feature_names)
+```
+This is the declaraiton of the class you are going to use and their essential attribute.
+tree :is the model you are using to detect churner.
+guestCost:is the data frame which we talk about earlier.
+goal: is the class you want to reach in my case the target is flag-churn (flag-churn= 1:client who's going to quit ,0:client with good behaviors) so the goal=1
+
+### Break down into end to end tests
+the most important method is:
+```
+def bestPractice(self,users,budget)
+```
+input:  1-all users of the company 2-budget that the company planify to invest
+output: the number of cutomers to protect with the budget given as input
+
+### Tips for rigorous persons
+This images can give an idea about how this algorithm work.But if you still wondering to know more contact me for more details
+
+
+
