@@ -7,4 +7,4 @@ some basics of python
 ```
 pandas library
 ```
-
+![Capture](https://user-images.githubusercontent.com/54355576/65855632-56d57380-e357-11e9-9cec-53aa6b8462cc.PNG)
