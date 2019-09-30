@@ -11,12 +11,13 @@ pandas library
 The most importent issue to succesfuly upload this algorithm and to have a good result.You have to correctly evaluate 
 features.
 A company has to invest to improve customer behavior and each offer  has of course a cost.So in my case features are:
-```
+
 number-of-calls:the number of calls for a user
 number-of-neighbors:other customer whom  the actuel customer communicate with
 flag-data:is customer using data offers
-```
+
 ![Capture](https://user-images.githubusercontent.com/54355576/65855632-56d57380-e357-11e9-9cec-53aa6b8462cc.PNG)
+
 Remarques:
 ```
 To increase number-of-calls with one unit company should invest 3$.
