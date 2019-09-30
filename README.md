@@ -10,7 +10,7 @@ pandas library
 ```
 The most importent issue to succesfuly upload this algorithm and to have a good result.You have to correctly evaluate 
 features.
-A company has to invest to improve customer behavior and each offer  has of course a cost.So in my case features are:
+A company have to invest to improve customer behavior and each offer  has of course a cost.So in my case features are:
 
 number-of-calls:the number of calls for a user
 number-of-neighbors:other customer whom  the actuel customer communicate with
@@ -18,7 +18,7 @@ flag-data:is customer using data offers
 
 ![Capture](https://user-images.githubusercontent.com/54355576/65855632-56d57380-e357-11e9-9cec-53aa6b8462cc.PNG)
 
-Remarques:
+Remarks:
 ```
 To increase number-of-calls with one unit company should invest 3$.
 ```
@@ -47,7 +47,10 @@ input:  1-all users of the company 2-budget that the company planify to invest
 output: the number of cutomers to protect with the budget given as input
 
 ### Tips for rigorous persons
-This images can give an idea about how this algorithm work.But if you still wondering to know more contact me for more details
+This picture can give you an idea about how this algorithm work.But if things still not obvious contact me for more details..
+#wondering to get your feedbacks 
+![cout](https://user-images.githubusercontent.com/54355576/65860270-d9fbc700-e361-11e9-9c6a-d7362fb5fa1c.PNG)
+
 
 
 
