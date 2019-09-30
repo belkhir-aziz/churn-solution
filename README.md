@@ -8,9 +8,9 @@ This project provides a real solution for companies which suffer from the churn:
 ```
 pandas library
 ```
-To integrate this algorithm and have good results.You have to correctly evaluate 
+To integrate this algorithm and have good results,you have to correctly evaluate 
 features.
-A company have to invest to improve customer behavior and each offer  has of course a cost.So in my case features are:
+A company have to invest to improve customer behavior and each offer,has of course a cost,in my case there are some features which the company tends to improve:
 
 number-of-calls:the number of calls for a user
 number-of-neighbors:other customer whom  the actuel customer communicate with
