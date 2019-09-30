@@ -8,7 +8,7 @@ This project provides a real solution for companies which suffer from the churn:
 ```
 pandas library
 ```
-The most importent issue to succesfuly upload this algorithm and to have a good result.You have to correctly evaluate 
+The most important issue to succesfuly upload this algorithm and to have a good result.You have to correctly evaluate 
 features.
 A company have to invest to improve customer behavior and each offer  has of course a cost.So in my case features are:
 
