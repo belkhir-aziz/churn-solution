@@ -1,5 +1,5 @@
 # Churn-solution
-This project provides a real solution for companies which suffer from the churn:Nowadays, many entrepreneurs have tended to use the ML model to detect client with bad behavior, in order to give them new offers and opportunities convince them not to leave. This act appears simple and worth it, but it can cost much resources without getting any effective result. So choosing a good strategy to give offers is so important as it can lead to a successful process.
+This project provides a real solution for companies which suffer from the churn: Nowadays, many entrepreneurs have tended to use the ML model to detect client with bad behavior, in order to give them new offers and opportunities convince them not to leave. This act appears simple and worth it, but it can cost much resources without getting any effective result. So choosing a good strategy to give offers is so important as it can lead to a successful process.
 
 ### Prerequisites
 -machine learning model (tree solution)
@@ -12,10 +12,9 @@ To integrate this algorithm and have good results,you have to correctly evaluate
 features.
 A company have to invest to improve customer behavior and each offer,has of course a cost,in my case there are some features which the company tends to improve:
 
-number-of-calls:the number of calls for a user
+number-of-calls: The number of calls for a user.
 
-number-of-neighbors:other customer whom  the actuel customer communicate with
-
+number-of-neighbors: The number of customers that have called/received calls from the actual client.
 flag-data:is customer using data offers
 
 ![Capture](https://user-images.githubusercontent.com/54355576/65855632-56d57380-e357-11e9-9cec-53aa6b8462cc.PNG)
